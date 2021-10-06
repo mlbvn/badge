@@ -3,8 +3,11 @@
 Just the badge from MLBVN Group.
 
 ## Preview
-[![Member of MLBVN Group](https://badge.mlbvn.org/assets/member.svg)](https://github.com/mlbvn)
+<!--[![Member of MLBVN Group](https://badge.mlbvn.org/assets/member.svg)](https://github.com/mlbvn)-->
+<!--[![Project of MLBVN Group](https://badge.mlbvn.org/assets/project.svg)](https://github.com/mlbvn)-->
 [![From Vietnam with <3](https://badge.mlbvn.org/assets/love.svg)](https://github.com/mlbvn)
+[![by Vietnamese](https://badge.mlbvn.org/assets/by.svg)](https://github.com/mlbvn)
+[![Made in Vietnam](https://badge.mlbvn.org/assets/made.svg)](https://github.com/mlbvn)
 
 ## Usage
 
