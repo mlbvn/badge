@@ -4,8 +4,8 @@ Just the badge from MLBVN Group for official projects and community.
 If you're a member of MLBVN Community, you can get the badge for your project.
 
 ## Preview
-[![Member of MLBVN Community](https://badge.mlbvn.org/member-flat.svg)](https://github.com/mlbvn)
-[![From Vietnam with <3](https://badge.mlbvn.org/love-flat.svg)](https://github.com/mlbvn)
+[![Member of MLBVN Community](https://badge.mlbvn.org/member.svg)](https://github.com/mlbvn)
+[![From Vietnam with <3](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn)
 
 ## Public Usage
 
@@ -14,43 +14,43 @@ Pick one of your favorite.
 
 ### For Markdown
 ```
-[![Member of MLBVN Community](https://badge.mlbvn.org/member-flat.svg)](https://github.com/mlbvn)
-[![From Vietnam with <3](https://badge.mlbvn.org/love-flat.svg)](https://github.com/mlbvn)
+[![Member of MLBVN Community](https://badge.mlbvn.org/member.svg)](https://github.com/mlbvn)
+[![From Vietnam with <3](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn)
 ```
 
 ### For HTML
 ```
-<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/member-flat.svg" /></a>
-<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/love-flat.svg" /></a>
+<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/member.svg" /></a>
+<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/love.svg" /></a>
 ```
 
 ### For Org-mode
 ```
-[[https://badge.mlbvn.org/member-flat.svg][Member of MLBVN Community]]
-[[https://badge.mlbvn.org/love-flat.svg][From Vietnam with <3]]
+[[https://badge.mlbvn.org/member.svg][Member of MLBVN Community]]
+[[https://badge.mlbvn.org/love.svg][From Vietnam with <3]]
 ```
 
 ## Internal Usage
 
 ### Default badge
-[![](https://badge.mlbvn.org/official-flat.svg)]()
-[![](https://badge.mlbvn.org/team-flat.svg)]()
-[![](https://badge.mlbvn.org/love-flat.svg)]()
+[![](https://badge.mlbvn.org/official.svg)](https://github.com/mlbvn/badge)
+[![](https://badge.mlbvn.org/team.svg)](https://github.com/mlbvn/badge)
+[![](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn/badge)
 
 ```
-[![](https://badge.mlbvn.org/official-flat.svg)]()
-[![](https://badge.mlbvn.org/team-flat.svg)]()
-[![](https://badge.mlbvn.org/love-flat.svg)]()
+[![](https://badge.mlbvn.org/official.svg)](https://github.com/mlbvn/badge)
+[![](https://badge.mlbvn.org/team.svg)](https://github.com/mlbvn/badge)
+[![](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn/badge)
 ```
 
 **Note:** Official and Team badge for official projects 
 are officially supported by MLBVN Group.
 
 ### Specific badge
-[![](https://badge.mlbvn.org/obsolete-flat.svg)]()
+[![](https://badge.mlbvn.org/obsolete.svg)](https://github.com/mlbvn/badge)
 
 ```
-[![](https://badge.mlbvn.org/obsolete-flat.svg)]()
+[![](https://badge.mlbvn.org/obsolete.svg)](https://github.com/mlbvn/badge)
 ```
 
 **Note:** Obsolete badge for obsolete projects are those that have 
