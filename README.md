@@ -1,13 +1,15 @@
 # MLBVN Badge
 
-Just the badge from MLBVN Group.
+Just the badge from MLBVN Group for official projects and community.
+If you're a member of MLBVN Community, you can get the badge for your project.
 
 ## Preview
 [![Member of MLBVN Community](https://badge.mlbvn.org/member-flat.svg)](https://github.com/mlbvn)
 [![From Vietnam with <3](https://badge.mlbvn.org/love-flat.svg)](https://github.com/mlbvn)
 
-## Usage
+## Public Usage
 
+We provide a public badge for your project.
 Pick one of your favorite.
 
 ### For Markdown
@@ -18,8 +20,8 @@ Pick one of your favorite.
 
 ### For HTML
 ```
-<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/assets/member.svg" /></a>
-<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/assets/love.svg" /></a>
+<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/member-flat.svg" /></a>
+<a href="https://github.com/mlbvn"><img src="https://badge.mlbvn.org/love-flat.svg" /></a>
 ```
 
 ### For Org-mode
@@ -27,6 +29,32 @@ Pick one of your favorite.
 [[https://badge.mlbvn.org/member-flat.svg][Member of MLBVN Community]]
 [[https://badge.mlbvn.org/love-flat.svg][From Vietnam with <3]]
 ```
+
+## Internal Usage
+
+### Default badge
+[![](https://badge.mlbvn.org/official-flat.svg)]()
+[![](https://badge.mlbvn.org/team-flat.svg)]()
+[![](https://badge.mlbvn.org/love-flat.svg)]()
+
+```
+[![](https://badge.mlbvn.org/official-flat.svg)]()
+[![](https://badge.mlbvn.org/team-flat.svg)]()
+[![](https://badge.mlbvn.org/love-flat.svg)]()
+```
+
+**Note:** Official and Team badge for official projects 
+are officially supported by MLBVN Group.
+
+### Specific badge
+[![](https://badge.mlbvn.org/obsolete-flat.svg)]()
+
+```
+[![](https://badge.mlbvn.org/obsolete-flat.svg)]()
+```
+
+**Note:** Obsolete badge for obsolete projects are those that have 
+been discontinued, superseded, or historical.
 
 ## Join the Community
 [![](https://img.shields.io/badge/Inbox-fff?logo=gmail)](mailto:github@mlbvn.org)
