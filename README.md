@@ -3,14 +3,13 @@
 Just the badge from MLBVN Group for official projects and community.
 If you're a member of MLBVN Community, you can get the badge for your project.
 
-## Preview
-[![Member of MLBVN Community](https://badge.mlbvn.org/member.svg)](https://github.com/mlbvn)
-[![From Vietnam with <3](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn)
-
 ## Public Usage
 
 We provide a public badge for your project.
 Pick one of your favorite.
+
+[![Member of MLBVN Community](https://badge.mlbvn.org/member.svg)](https://github.com/mlbvn)
+[![From Vietnam with <3](https://badge.mlbvn.org/love.svg)](https://github.com/mlbvn)
 
 ### For Markdown
 ```
